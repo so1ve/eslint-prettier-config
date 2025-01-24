@@ -24,7 +24,7 @@
 		"watch": "nr -r --filter=./packages/* watch"
 	},
 	"devDependencies": {
-		"@antfu/ni": "^0.21.12",
+		"@antfu/ni": "^0.23.0",
 		"@so1ve/eslint-config": "workspace:*",
 		"@so1ve/eslint-plugin": "workspace:*",
 		"@so1ve/eslint-plugin-sort-imports": "workspace:*",

@@ -43,7 +43,7 @@
 		"@so1ve/eslint-plugin": "workspace:*",
 		"@so1ve/eslint-plugin-sort-imports": "workspace:*",
 		"@stylistic/eslint-plugin": "^2.1.0",
-		"@unocss/eslint-config": "^0.60.4",
+		"@unocss/eslint-config": "^0.65.0",
 		"eslint-config-flat-gitignore": "^0.1.5",
 		"eslint-flat-config-utils": "^0.2.5",
 		"eslint-import-resolver-typescript": "^3.6.1",
